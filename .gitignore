@@ -1,0 +1,10 @@
+/obj
+/figs
+/data
+/frames
+/src-dev
+/results
+/__pycache__
+celp
+libcelp.a
+libcelp.so
